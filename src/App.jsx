@@ -1,8 +1,8 @@
 import React, { Fragment } from 'react'
 
-import XCenter from './x坐标label效果实现/index'
+import XCenter from './XAxisCenter/index'
 
-export default function app() {
+export default function App() {
   return (
     <Fragment>
       <XCenter />

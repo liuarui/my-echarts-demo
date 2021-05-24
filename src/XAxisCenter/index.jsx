@@ -46,6 +46,7 @@ function getOption() {
                 },
                 rich: {
                     first: {
+                        // 此处有坑 需添加width，align才生效
                         align: 'left',
                         color: 'red',
                         width: 1
